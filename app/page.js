@@ -99,9 +99,9 @@ export default function BlogPage() {
                   lineHeight: "28px",
                 }}
               >
-                Upgrade your city's mobility experience with Better Mobility's
+                {`Upgrade your city's mobility experience with Better Mobility's
                 innovative solutions. Embrace the future of transportation
-                today.Empowering Cities, Transforming Journeys
+                today.Empowering Cities, Transforming Journeys`}
               </Typography>
             </Grid>
           </Grid>
